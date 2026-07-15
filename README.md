@@ -3,7 +3,7 @@
 **Sistematização metodológica: Kerson Kleber Espínola Pereira**
 
 [![Licença: CC BY-NC-SA 4.0](https://img.shields.io/badge/Licen%C3%A7a-CC%20BY--NC--SA%204.0-1F3864.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
-[![DOI](https://img.shields.io/badge/DOI-em%20breve%20via%20Zenodo-8A6D00.svg)](#)
+[![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.21367100-8A6D00.svg)](https://doi.org/10.5281/zenodo.21367100)
 
 > Material 100% gratuito. Uso comercial proibido. Ver [Licença](#licença).
 
@@ -77,11 +77,14 @@ O manual inclui um anexo passo a passo para quem quer usar o Obsidian como ferra
 ## Como citar
 
 ```
-PEREIRA, Kerson Kleber Espínola. Método ORP – Observar, Relacionar e Produzir.
-Versão 1.0. 2026. Disponível em: https://github.com/[SEU-USUARIO]/metodo-orp
+Pereira, K. K. E. (2026). Método ORP — Observar, Relacionar e Produzir:
+Organização da Pesquisa Científica com Inteligência Artificial (Version v1.0.1)
+[Computer software]. Zenodo. https://doi.org/10.5281/zenodo.21367100
 ```
 
-Um arquivo [`CITATION.cff`](./CITATION.cff) está incluído neste repositório — o GitHub o reconhece automaticamente e exibe um botão "Cite this repository" na página do projeto. Assim que o repositório for vinculado ao [Zenodo](https://zenodo.org), cada release passa a gerar um DOI citável, que será adicionado aqui.
+**DOI:** [10.5281/zenodo.21367100](https://doi.org/10.5281/zenodo.21367100)
+
+Um arquivo [`CITATION.cff`](./CITATION.cff) está incluído neste repositório — o GitHub o reconhece automaticamente e exibe um botão "Cite this repository" na página do projeto.
 
 ## Licença
 
@@ -97,7 +100,7 @@ Texto completo: [creativecommons.org/licenses/by-nc-sa/4.0](https://creativecomm
 
 ## Contato
 
-Dúvidas, sugestões ou pedidos de aplicação do método em contextos específicos: [preencher com e-mail ou forma de contato preferida].
+Dúvidas, sugestões ou pedidos de aplicação do método em contextos específicos: [ensinarsemfronteiras@gmail.com](mailto:ensinarsemfronteiras@gmail.com).
 
 ---
 

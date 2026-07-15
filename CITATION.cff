@@ -2,13 +2,18 @@ cff-version: 1.2.0
 message: "Se você utilizar o Método ORP em sua pesquisa, por favor cite-o conforme abaixo."
 title: "Método ORP — Observar, Relacionar e Produzir: Organização da Pesquisa Científica com Inteligência Artificial"
 type: software
-version: 1.0.0
-date-released: "2026-01-01"
+version: 1.0.1
+date-released: "2026-07-15"
+doi: 10.5281/zenodo.21367100
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.21367100
+    description: "DOI da versão v1.0.1 no Zenodo"
 authors:
   - family-names: "Pereira"
     given-names: "Kerson Kleber Espínola"
 license: CC-BY-NC-SA-4.0
-repository-code: "https://github.com/[SEU-USUARIO]/metodo-orp"
+repository-code: "https://github.com/kerson-kleber/metodo-orp"
 abstract: >
   Manual metodológico generalista para condução de pesquisa científica —
   artigo, dissertação, tese ou livro — com apoio de Inteligência Artificial,
