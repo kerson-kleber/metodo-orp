@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+message: "Se você utilizar o Método ORP em sua pesquisa, por favor cite-o conforme abaixo."
+title: "Método ORP — Observar, Relacionar e Produzir: Organização da Pesquisa Científica com Inteligência Artificial"
+type: software
+version: 1.0.0
+date-released: "2026-01-01"
+authors:
+  - family-names: "Pereira"
+    given-names: "Kerson Kleber Espínola"
+license: CC-BY-NC-SA-4.0
+repository-code: "https://github.com/[SEU-USUARIO]/metodo-orp"
+abstract: >
+  Manual metodológico generalista para condução de pesquisa científica —
+  artigo, dissertação, tese ou livro — com apoio de Inteligência Artificial,
+  aplicável a qualquer área do conhecimento. Organizado em nove fases
+  sequenciais e um fichário de vinte prompts distribuídos em cinco blocos
+  (A a E), acompanhado de um anexo sobre organização do acervo no Obsidian.
+keywords:
+  - metodologia científica
+  - inteligência artificial
+  - pesquisa acadêmica
+  - organização de acervo
+  - Obsidian
