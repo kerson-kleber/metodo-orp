@@ -4,8 +4,15 @@
 
 [![Licença: CC BY-NC-SA 4.0](https://img.shields.io/badge/Licen%C3%A7a-CC%20BY--NC--SA%204.0-1F3864.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 [![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.21367100-8A6D00.svg)](https://doi.org/10.5281/zenodo.21367100)
+[![ORCID](https://img.shields.io/badge/ORCID-0000--0001--8556--4195-A6CE39.svg)](https://orcid.org/0000-0001-8556-4195)
 
 > Material 100% gratuito. Uso comercial proibido. Ver [Licença](#licença).
+
+---
+
+## 👤 Autoria
+* **Autor / Sistematizador:** Kerson Kleber Espínola Pereira
+* **ORCID:** [https://orcid.org/0000-0001-8556-4195](https://orcid.org/0000-0001-8556-4195)
 
 ---
 
@@ -30,21 +37,6 @@ A IA é tratada, ao longo de todo o manual, como bibliotecária e organizadora d
 | `CHANGELOG.md` | Histórico de versões do método |
 
 ### Estrutura completa do repositório
-
-```
-metodo-orp/
-├── README.md
-├── LICENSE
-├── CITATION.cff
-├── CHANGELOG.md
-├── manual/
-│   ├── Metodo-ORP-Edicao-Generica.docx
-│   ├── Metodo-ORP-Edicao-Generica.pdf
-│   └── Metodo-ORP-Edicao-Generica.md
-└── card-divulgacao/
-    ├── Card-Divulgacao-Metodo-ORP.docx
-    └── Card-Divulgacao-Metodo-ORP.pdf
-```
 
 ## As nove fases do método
 
@@ -76,13 +68,8 @@ O manual inclui um anexo passo a passo para quem quer usar o Obsidian como ferra
 
 ## Como citar
 
-```
-Pereira, K. K. E. (2026). Método ORP — Observar, Relacionar e Produzir:
-Organização da Pesquisa Científica com Inteligência Artificial (Version v1.0.1)
-[Computer software]. Zenodo. https://doi.org/10.5281/zenodo.21367100
-```
-
-**DOI:** [10.5281/zenodo.21367100](https://doi.org/10.5281/zenodo.21367100)
+**DOI:** [10.5281/zenodo.21367100](https://doi.org/10.5281/zenodo.21367100)  
+**ORCID:** [https://orcid.org/0000-0001-8556-4195](https://orcid.org/0000-0001-8556-4195)
 
 Um arquivo [`CITATION.cff`](./CITATION.cff) está incluído neste repositório — o GitHub o reconhece automaticamente e exibe um botão "Cite this repository" na página do projeto.
 
@@ -104,4 +91,4 @@ Dúvidas, sugestões ou pedidos de aplicação do método em contextos específi
 
 ---
 
-*Método ORP — sistematizado e distribuído gratuitamente por Kerson Kleber Espínola Pereira.*
+*Método ORP — sistematizado e distribuído gratuitamente por [Kerson Kleber Espínola Pereira](h
