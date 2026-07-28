@@ -41,6 +41,8 @@ Sob as seguintes condições:
 
 **DOI: **10.5281/zenodo.21367100 — https://doi.org/10.5281/zenodo.21367100
 
+**ORCID iD: **0000-0001-8556-4195
+
 Texto completo da licença: creativecommons.org/licenses/by-nc-sa/4.0
 
 
